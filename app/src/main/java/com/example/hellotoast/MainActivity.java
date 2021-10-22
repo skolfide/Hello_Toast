@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String EXTRA_MESSAGE ="com.example.twoactivities.extra.MESSAGE";
     private int mCount = 0;
     private TextView mShowCount;
+
     public static final int TEXT_REQUEST = 1;
     @Override
 
